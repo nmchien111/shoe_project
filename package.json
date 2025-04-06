@@ -1,0 +1,32 @@
+{
+  "name": "shoe_project2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nmchien111/shoe_project.git"
+  },
+  "keywords": [
+    "shoe",
+    "project2",
+    "online",
+    "sales"
+  ],
+  "author": "nmchien",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nmchien111/shoe_project/issues"
+  },
+  "homepage": "https://github.com/nmchien111/shoe_project#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
